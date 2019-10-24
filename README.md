@@ -20,5 +20,5 @@ This project requires Gradle and Java 1.8 or newer.
 * Navigate to the directory with the generated scripts:
 `cd build/install/primes/bin`
 
-* Run **primes**, passing the starting value and ending value for the range of primes to generate:
+* Run **primes**, passing the starting value and ending value for the range of prime numbers to generate:
 `./primes 7900 7920`
